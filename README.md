@@ -33,13 +33,14 @@ Este projeto tem como objetivo realizar o rastreamento dos carros de Fórmula E 
 
 3. **Prepare os Arquivos Necessários**:
    - Coloque o vídeo a ser analisado no diretório do projeto com o nome `formulaeexample.mp4`.
+   - baixe o arquivo `wights.zip` que anexei na tarefa no `teams`
    - Certifique-se de ter o arquivo de pesos do modelo YOLO compactado em `weights.zip`.
 
 4. **Execute o Script**: No terminal, execute o script Python para iniciar o processo de detecção e rastreamento.
    ```bash
    python detectar_objetos.py
    ```
-
+4.1. **No colab, apenas faca o upload dos 2 arquivos e rode todas as celulas**
 ## Requisitos
 
 - **Sistema Operacional**: Windows, macOS ou Linux.
